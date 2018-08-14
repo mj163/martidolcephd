@@ -12,3 +12,5 @@ Being true to myself, whatever I learn I will post it not because of a need to s
 What I don't know - Is Why.  So I'm going to post it and maybe I'll figure it out along the way.
 
 Martinique Dolce, August 14, 2018 Tuesday.  11:51 AM
+
+***
