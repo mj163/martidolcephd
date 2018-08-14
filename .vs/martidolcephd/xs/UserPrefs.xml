@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="Any">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Any CPU" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="mach4-lp" Email="marti@rdolcegroup.com" Copyright="" Company="" Trademark="" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Any" Name="Any" />
+  </MultiItemStartupConfigurations>
+</Properties>
